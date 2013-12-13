@@ -1,0 +1,27 @@
+{
+  "name": "mqtt-js",
+  "version": "0.0.0",
+  "description": "DO NOT USE - JS implimentation of MQTT for kicks",
+  "main": "src/app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/svincent/mqtt-js.git"
+  },
+  "author": "Simeon Vincent",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "464f5ffdfa35c74b78b857a93a8b175107568a6c",
+  "bugs": {
+    "url": "https://github.com/svincent/mqtt-js/issues"
+  }
+}
